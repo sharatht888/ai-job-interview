@@ -1,5 +1,5 @@
-DB_HOST = "localhost"
+DB_HOST = "switchback.proxy.rlwy.net:46923"
 DB_USER = "root"
-DB_PASSWORD = "root"
+DB_PASSWORD = "VIZfMNqkSbEYcAdInsECXuUxODQHlpJP"
 DB_NAME = "interview_system"
 SECRET_KEY = "admin"
